@@ -13,7 +13,7 @@ namespace Sender_email
             var to = "rummolprod999@gmail.com";
             var host = "web07-cp.marosnet.net";
             var user = "info@enter-it.ru";
-            var pass = "Dft56Point";
+            var pass = "********";
 
             //Generate Message
             var mymessage = new MimeMailMessage();
